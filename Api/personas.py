@@ -19,3 +19,5 @@ def index():
 if __name__ == '__main__':
     #Inicializa la aplicacion con un debug activado
     app.run(debug= True)
+
+# Lo que hace este codigo es crear un endpoint que responde a la solicitud GET /api/personas, para asi devolver una lista de personas que ya estan definidas de forma estatica 
