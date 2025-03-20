@@ -1,4 +1,4 @@
-#Grupo: Keidys Salguedo y Rafael Mantilla
+#Keidys Salguedo Ortega 
 
 from flask import Flask, request, jsonify
 app = Flask(__name__)
